@@ -50,7 +50,7 @@ donations back into standard money to fund their mission. Although
 such a system would have been impractical for most of human history,
 the current explosion of interest in novel digital currencies has not
 only made ideas such as UBP feasible but culturally marketable as
-well[cite:bonneau2015sok]][[cite:nakamoto2008bitcoin]]. The purpose of
+well[[cite:bonneau2015sok]][[cite:nakamoto2008bitcoin]]. The purpose of
 this paper is to provide a high-level but comprehensive argument that
 UBP will be a paradigm-shifting model for social progress.
 
@@ -64,7 +64,7 @@ individuals to cover minimal living expenses [[cite:van2004basic]].
 Researchers have analyzed experiments in UBI across several
 small-scale experiments in such settings as
 Alaska[[cite:goldsmith2002alaska]], Finland[[cite:koistinen2014good]],
-and Nambia[[cite:osterkamp2013basic]]. UBP also shares a common
+and Namibia[[cite:osterkamp2013basic]]. UBP also shares a common
 ideology with Richard Hasen's "democracy coupons"
 [[cite:hasen1996clipping]], which has been deployed in the city of
 Seattle since 2015[[cite:douglas2016local]]. Whereas democracy coupons
@@ -90,8 +90,8 @@ categories of benefits:
 - UBP as the launching point for a parallel altruistic economy
 
 The paper concludes with a plan for the initial steps that Token Ibis
-as an organization intends to take to prove the efficacy of these
-ideas.
+as an organization intends to take in order to prove the efficacy of
+these ideas.
 
 * Problem Statement
 The scope of this work addresses the section of the nonprofit industry
@@ -198,21 +198,21 @@ produce and what they sell that lies at the heart of problems.
 What is the correct rational amount that a person should donate to
 charity? The answer depends on the individual's utility function. For
 example, the founders of the Effective Altruism movement claim to
-adopt a utility function that values a stranger's far more than an
-expensive vacation. Hence, the life strategy of an Effective Altruist
-is to live as long as possible, make as much money as possible, and
-save as many lives as possible. For the rest of us who are motivated
-by family, knowledge, status, comfort, fame, etc., the calculus is
-more straightforward: the rational amount we should donate is
-precisely zero. Nonprofit workers subconsciously understand this
+adopt a utility function that values a stranger's life far more than
+an expensive vacation. Hence, the life strategy of an Effective
+Altruist is to live as long as possible, make as much money as
+possible, and save as many lives as possible. For the rest of us who
+are motivated by family, knowledge, status, comfort, fame, etc., the
+calculus is more straightforward: the rational amount we should donate
+is precisely zero. Nonprofit workers subconsciously understand this
 dilemma. Consider the language often used by fundraising
-professionals: "what is /least/ that you can do to make a difference?
-Surely, the well-being of an innocent child is worth more to you than
-that expensive dinner?" Emotionally, this is a compelling argument.
-But what about next week's expensive dinner, and the week after that?
-Charities realize that there is no "right" amount. The best they can
-do is coax their benefactors into being impulsive for just long enough
-to engage in accidental altruism.
+professionals: "what is the /least/ that you can do to make a
+difference? Surely, the well-being of an innocent child is worth more
+to you than that expensive dinner?" Emotionally, this is a compelling
+argument. But what about next week's expensive dinner, and the week
+after that? Charities realize that there is no "right" amount. The
+best they can do is coax their benefactors into being impulsive for
+just long enough to engage in accidental altruism.
 
 ** *Overhead*
 The need to create one product and sell another leads to substantial
@@ -241,8 +241,8 @@ We will preface our solution with a final piece of context. Most
 philanthropists view the decision to give to charity as a single
 atomic action. The entire chain of thought from empathy to
 self-sacrifice and eventual gratification gets compressed into a
-single transfer of currency. This view has been dominant through the
-extent of human history. Today, we suggest that it would be more
+single transfer of currency. This view has been dominant throughout
+the extent of human history. Today, we suggest that it would be more
 helpful to view philanthropy as two distinct mental processes:
 
 - *Commitment* - The decision to donate
@@ -261,14 +261,14 @@ allow them to finally focus on the merits of impact[fn:foundations].
 Our solution is as grand as it is simple, and is perhaps appropriately
 named /Universal Basic Philanthropy/. In this scheme, we propose that
 at some level of governance, the state should fund and distribute a
-guaranteed charitable stipend its constituents. For concreteness, we
-will suppose that the United States Federal Government allocates two
-percent of the national GDP to all citizens via a digital platform.
-This sum translates to about $150 per month per person as of 2019.
-Where UBP is the generic name of the distribution policy, we shall
-call the currency /Ibis/[fn:analogy] The dynamics of this system,
-enforced by a combination of legal and technical mechanisms, are as
-follows:
+guaranteed charitable stipend to its constituents. For concreteness,
+we will suppose that the United States Federal Government allocates
+two percent of the national GDP to all citizens via a digital
+platform. This sum translates to about $150 per month per person as
+of 2019. Where UBP is the generic name of the distribution policy, we
+shall call the currency /Ibis/[fn:analogy]. The dynamics of this
+system, enforced by a combination of legal and technical mechanisms,
+are as follows:
 1. Entities (individuals or organizations) may purchase more Ibis using USD at a fixed ratio exchange rate (e.g., 1:1).
 2. Entities may send Ibis to any other entity.
 3. Only a registered nonprofit organization may trade Ibis for USD at an officially approved exchange.
@@ -289,9 +289,9 @@ identified.
   money. The result is smarter donations flowing toward causes with
   the greatest need.
 - *Overhead* - By pushing a fixed amount of money to the nonprofit
-  sector a national scale, the government alleviates the need for the
-  industry to invest heavily in fundraising. Nonprofits still have to
-  compete for funding with each other, but this fundraising and
+  sector at a national scale, the government alleviates the need for
+  the industry to invest heavily in fundraising. Nonprofits still have
+  to compete for funding with each other, but this fundraising and
   marketing effort is more comparable to baseline competition in the
   private sector.
 - *Indeterminate Success* - As a consequence of solving the
@@ -389,7 +389,7 @@ Between 2003 and 2013, total contributions from individuals with a net
 income greater than $100,000 increased by 40% while contributions from
 the rest of the population declined by 34%[[cite:collins2016gilded]].
 This growing generosity by wealthy individuals is admirable at a
-personal level, better schools and museums than yachts and private
+personal level; better schools and museums than yachts and private
 jets. However, perhaps society as a whole should reevaluate a system
 in which a small fraction of affluent donors can unilaterally decide
 the future of education, news, health, and welfare for large sections
@@ -419,18 +419,16 @@ fraction of the revenue to the individual in the form of an Ibis tax
 return. Call it "mandatory altruism." As a mechanism for combating
 wealth inequality, mandatory altruism would be equally effective as a
 traditional tax. On the other hand, while not as powerful as plain
-money, social influence can be a sufficient incentive in its
-own[[cite:blackburn2010giving]]. For some aspiring moguls, Ibis may be
-no motivation at all, but perhaps we should be less enthusiastic about
-ensuring their success. Mandatory altruism offers another compelling
-benefit. In /The Givers/[[cite:callahan2017givers]], David Callahan
-argues that philanthropy is often something of an afterthought for the
-ultra-rich after they have accumulated their fortunes in other
-industries. The result in yet another level of misalignment between
-means and knowledge. Our mandatory altruism scheme provides a tangible
-incentive for aspiring capitalists to apply their talent and business
-acumen toward social good even as they are building their more
-profitable enterpises[fn:contradiction].
+money, social influence can be a sufficient incentive on its
+own[[cite:blackburn2010giving]]. In /The
+Givers/[[cite:callahan2017givers]], David Callahan argues that
+philanthropy is often something of an afterthought for the ultra-rich
+after they have accumulated their fortunes in other industries. The
+result in yet another level of misalignment between means and
+knowledge. Our mandatory altruism scheme provides a tangible incentive
+for aspiring capitalists to apply their talent and business acumen
+toward social good even as they are building their more profitable
+enterpises[fn:contradiction].
 
 ** Social Influence as Status
 :PROPERTIES:
@@ -441,7 +439,7 @@ true philanthropists. Forbes magazine famously publishes a yearly
 report of the wealthiest men and women on Earth, a report that
 seemingly only exists to satiate our obsession with rich and powerful
 figures. We believe that the same publication measuring wealth in Ibis
-can have a similar effect for promoting philanthropy. In a similar
+can have the same effect for promoting philanthropy. In a similar
 vein, there has been much debate over how to compensate successful
 nonprofit executives. Outspoken industry leaders such as Dan Pallotta
 believe the answer is to reward executives in the same way that the
@@ -494,8 +492,9 @@ social or moral complications.
 - Heidi is an amateur political guru who wants to bet on Ivan2020's
   platform on UBP, but she ran into federal laws banning political
   gambling[[cite:ozimek2014regulation]].
-- Judy wants to buy Mike's concert ticket, but cannot legally bid up
-  the price because it is illegal[[cite:nmsa2015ticket]].
+- Judy wants to buy Mike's concert ticket, but cannot legally offer a
+  different price higher than the original
+  sale[[cite:nmsa2015ticket]].
 
 In another class of interpersonal interactions, individuals exchange
 money primarily as a means to signal appreciation. This mechanism is
@@ -596,8 +595,8 @@ At a theoretical level, the ambition of the ideas in this paper lies
 somewhere between bold and absurd. In practice, there are myriad
 reasons why even good intentions are doomed to fail, especially given
 the magnitude of political and cultural changes proposed by UBP.
-However, Rome was not built in a day. Before the Universal Basic
-Income was championed by the likes of Elon Musk and Mark
+However, Rome was not built in a day. Before Universal Basic Income
+was championed by the likes of Elon Musk and Mark
 Zuckerberg[[cite:clifford2017billionaires]], before it headlined the
 platform of a U.S. presidential candidate[[cite:yang2018war]], UBI was
 best described as series of hopeful experiments. If our survey is
@@ -630,14 +629,14 @@ community by promoting profoundly new levels of connection between
 donors, distributors, and nonprofits. We look forward to witnessing
 the fruits of an impact-focused local nonprofit ecosystem, at the
 indicators of empowerment when disadvantaged school children can one
-day exercise their right social influence. Regardless of political
+day exercise their right to social influence. Regardless of political
 cooperation or academic consensus, we intend to see Ibis to its full
 potential.
 
 * Conclusion
 In this work, we contextualize the systematic shortcomings of the
 nonprofit sector under one fundamental insight, present a novel
-solution, and narrative the new art of the possible under our
+solution, and illustrate the new art of the possible under our
 currency-driven model. Although the endeavor is unapologetic in
 idealism and audacious in scale, our hope is this paper, in
 conjunction with our entrepreneurial efforts, will serve as a
@@ -667,7 +666,7 @@ education, struggle to use the local knowledge available to actors at
 the ground level[[cite:hayek1945use]].
 [fn:scenario] For concreteness, consider a hypothetical relationship
 between Alice, the wealthy regional manager of some corporation and
-her Bob, her college-age nephew who actively volunteers through his
+Bob, her college-age nephew who actively volunteers through his
 university. Alice has an abundance of money to donate on top of her
 UBP but very little time to actively engage in charity. Bob has the
 time and education, but little money. Eventually, we would expect that
